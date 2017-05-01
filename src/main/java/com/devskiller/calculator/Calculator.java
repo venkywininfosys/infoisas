@@ -2,7 +2,7 @@ package com.devskiller.calculator;
 
 public class Calculator {
 
-    public int add(int a, int b) {
+    public int added(int a, int b) {
         return 0;
     }
 
